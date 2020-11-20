@@ -17,7 +17,7 @@ Jeju Web(Back-end) Developer
 ###### Position : Back-end Developer
 
 - Back-end : Jeju bank Homepage, Mobile web
-- Data Visualization : MSTR(microstrategy)
+- Data Visualization
 
 ### Skills
 
