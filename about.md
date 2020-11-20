@@ -28,15 +28,15 @@ Jeju Web(Back-end) Developer
 
 ### Projects
 
-- [Dresshub]: https://github.com/Newone-jeju/DressHub
+- [Dresshub]: https://github.com/Newone-jeju/DressHub	"Dresshub"
 
   : Clothing Rental Service
 
-- [Recognize]: https://github.com/JNU-Include/Swift-Study
+- [Recognize]: https://github.com/JNU-Include/Swift-Study	"Recognize"
 
    : Object Recognition, Face Detection IOS Application
 
-- [Newone AR]: https://github.com/raphaelming/NewOne_AR
+- [Newone AR]: https://github.com/raphaelming/NewOne_AR	"Newone AR"
 
    : Beauty AR Application
 
