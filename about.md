@@ -28,9 +28,17 @@ Jeju Web(Back-end) Developer
 
 ### Projects
 
-- Dresshub : Clothing Rental Service (https://github.com/Newone-jeju/DressHub)
-- Recognize : Object Recognition, Face Detection IOS Application (https://github.com/JNU-Include/Swift-Study)
-- New one AR : Beauty AR Application (https://github.com/raphaelming/NewOne_AR)
+- [Dresshub]: https://github.com/Newone-jeju/DressHub
+
+  : Clothing Rental Service
+
+- [Recognize]: https://github.com/JNU-Include/Swift-Study
+
+   : Object Recognition, Face Detection IOS Application
+
+- [Newone AR]: https://github.com/raphaelming/NewOne_AR
+
+   : Beauty AR Application
 
 
 
